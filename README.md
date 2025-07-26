@@ -29,9 +29,9 @@ This project focuses on analyzing Uber ride data to understand demand patterns, 
 
 Uber-Ride-Demand-Analysis/
 ├── data/ # Dataset folder
-│ └── uber_dataset.csv
+  ── uber_dataset.csv
 ├── notebooks/ # Jupyter Notebooks
-│ └── analysis.ipynb
+  ── analysis.ipynb
 ├── images/ # Plots and graphs
 ├── README.md # Project description
 └── requirements.txt # Python dependencies
