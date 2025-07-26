@@ -29,13 +29,15 @@ This project focuses on analyzing Uber ride data to understand demand patterns, 
 
 Uber-Ride-Demand-Analysis/
 ├── data/
-│   ├── original_dataset.csv
-│   └── cleaned_dataset.csv
+│   ├── uber_data_cleaned.xls
+│   └── uber-raw-data-apr14.xls
 ├── notebooks/
-│   └── analysis.ipynb
+│   └── uber_data_analysis.ipynb
 ├── images/
-│   ├── demand_heatmap.png
-│   └── peak_hours_chart.png
+│   ├── Bar Plots.png
+│   └── Correlation Matrix.png
+|   └── Heat Map.png
+|   └── Line Plot.png
 ├── README.md
 
 
